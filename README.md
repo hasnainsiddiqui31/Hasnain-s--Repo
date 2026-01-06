@@ -2,7 +2,7 @@
 ## 🌳 Git Branching Strategy
 
 <p align="center">
-  <img src="docs/images/git-branching.png" width="90%" alt="Git Branching Strategy">
+  <img src="docs/images/gg.png" width="90%" alt="Git Branching Strategy">
 </p>
 
 ---
@@ -244,7 +244,7 @@ git push origin v1.0.0
 ## 🖼 Author Image
 
 <p align="center">
-  <img src="docs/images/hasnain.png" width="120" style="border-radius:50%" alt="Author Hasnain Siddiqui">
+  <img src="docs/images/hasnain image.jpg" width="120" style="border-radius:50%" alt="Author Hasnain Siddiqui">
 </p>
 
 
